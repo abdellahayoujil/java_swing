@@ -25,8 +25,8 @@ public class Exercice2 {
         JPanel buttonPanel = new JPanel();
         buttonPanel.setLayout(new FlowLayout());
 
-        JButton playButton = new JButton("Play");
-        JButton stopButton = new JButton("Stop");
+        JButton playButton = new JButton("PLAY");
+        JButton stopButton = new JButton("STOP");
 
         buttonPanel.add(playButton);
         buttonPanel.add(stopButton);

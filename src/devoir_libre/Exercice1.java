@@ -12,7 +12,7 @@ public class Exercice1{
     public static void main(String[] args) {
         JFrame frame = new JFrame("Couleurs");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setBounds(450, 200, 400, 300);
+        frame.setBounds(450, 200, 300, 300);
         JPanel colorPanel = new JPanel();
         JPanel buttonPanel = new JPanel();
         buttonPanel.setLayout(new FlowLayout());
